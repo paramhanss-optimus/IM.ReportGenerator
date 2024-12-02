@@ -1,0 +1,6 @@
+@IM.ReportGenerator_HostAddress = http://localhost:5260
+
+GET {{IM.ReportGenerator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
